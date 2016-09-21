@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gradient color for action bar -->
+    <!-- 
+    ff0166
+    ff9c28
+    <color name="gradient_start">#ffbe3fb4</color>
+    <color name="gradient_end">#ff676dbb</color>
+    -->
+    <color name="gradient_start">#ffff0166</color>
+    <color name="gradient_end">#ffff9c28</color>
+
+	<color name="thumbnail_start">#fffbfbfb</color>
+	<color name="thumbnail_end">#ffe5e5e5</color>
+
+</resources>

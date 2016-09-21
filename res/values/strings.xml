@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tagihan</string>
+
+    <string name="main_list">Main List</string>
+    <string name="partner_list">Partner List</string>
+    <string name="category_list">Category List</string>
+
+    <string name="action_main">Main</string>
+    <string name="action_invoices">Invoices</string>
+    <string name="action_partners">Partners</string>
+    <string name="action_categories">Categories</string>
+
+</resources>
